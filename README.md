@@ -24,6 +24,7 @@
 #### Civ4 - User interface
 - [BUG Mod](https://github.com/dharkness/civ4bug) - Interface mod
 - [PBStats](https://github.com/YggdrasiI/PBStats) - a mod and webinterface for Civ4:BtS Pitboss games
+- [Yet Another Mod Launcher](https://github.com/TC01/civ4-launcher)
 
 #### Civ4 - Utility Programs
 - [Civ4 Battle Simulator](https://github.com/J-Moore/Civ4CombatCalc)
