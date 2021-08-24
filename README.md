@@ -26,8 +26,10 @@
 - [PBStats](https://github.com/YggdrasiI/PBStats) - a mod and webinterface for Civ4:BtS Pitboss games
 
 #### Civ4 - Utility Programs
+- [Civ4 Battle Simulator](https://github.com/J-Moore/Civ4CombatCalc)
 - [Civ4 Map Cad (Civ4MC)](https://github.com/germanjoey/civ4-mapcad) - a tool for making multiplayer maps for Civilization IV
-- [Civ4Mapper](https://github.com/YggdrasiI/Civ4Mapper) - a small mod component to generate a detailed map of a Civ4 game.
+- [Civ4 Mapper](https://github.com/YggdrasiI/Civ4Mapper) - a small mod component to generate a detailed map of a Civ4 game
+- [Civ4 XML View](https://github.com/wlxjlj/civ4xml)
 
 #### Civ4 - Patches
 - [Civ4CE](https://github.com/f1rpo/Civ4CE)
