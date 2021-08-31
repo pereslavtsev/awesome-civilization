@@ -4,6 +4,7 @@
 
 ### Docs
 - [Civ4 Python API](http://civ4bug.sourceforge.net//PythonAPI/index.html)
+- [Kujira, Civ4 Mod Blog](https://gforestshade.github.io/kujira/)
 
 ### SDK
 - [Beyond the Sword SDK](https://github.com/dguenms/beyond-the-sword-sdk) - unedited CvGameCoreDLL sources for Civ IV Beyond the Sword, including Nightingale's Makefile
