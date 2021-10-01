@@ -38,3 +38,11 @@
 
 #### Civ4 - Patches
 - [Civ4CE](https://github.com/f1rpo/Civ4CE)
+
+## Civilization V
+
+### Mods
+
+#### Civ5 - Modspacks
+- [Community Call to Power](https://github.com/firesforever/Community-Call-To-Power-Mod)
+- [Regiment and Ethnic Diversity](https://github.com/Gedemon/Civ5-RED-Modpack)
